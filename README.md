@@ -9,7 +9,7 @@ A comprehensive, production-ready stock market tracking application with real-ti
 ### Phase 4 - Enhanced Version
 
 #### ✨ Additional Features
-- **Real-time WebSocket Data Streaming**: Live stock price updates every 30 seconds
+- **Real-time WebSocket Data Streaming**: Live stock price updates every 30 seconds  
 - **Interactive Charts**: Dynamic price charts with Chart.js integration
 - **Progressive Web App (PWA)**: Installable app with offline functionality
 - **Popular Stocks Widget**: Quick access to trending stocks
